@@ -3,7 +3,7 @@ from telegram.ext import Updater, MessageHandler, Filters
 from telegram.ext import CallbackContext, CommandHandler
 
 
-TOKEN = "1761635851:AAFkWG9yyhCoKtwpjuEwKth8Fp6QC_sQsvY"
+TOKEN = "1439206814:AAGvftfUy0JJGhBbctg4Peon6ScvbK_RTsY"
 REQUEST_KWARGS = {
     'proxy_url': 'socks5://t3.learn.python.ru:1080',    # t3 можно менять на t1 или t2
     'urllib3_proxy_kwargs': {
